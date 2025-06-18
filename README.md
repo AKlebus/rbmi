@@ -6,6 +6,7 @@ status](https://www.r-pkg.org/badges/version/rbmi)](https://cran.r-project.org/p
 
 # Reference Based Multiple Imputation (`rbmi`) <a href='https://insightsengineering.github.io/rbmi/'><img src="man/figures/logo.png" align="right" height="139" style="max-width: 100%; max-height: 139px;"/></a  >
 
+New line in readme
 
 ## Overview
 
